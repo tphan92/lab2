@@ -42,7 +42,6 @@ p {
 .logo {
 	float: left;
 	margin-right: 10px;
-	margin-left: 10px;
 }
 
 .factory {
@@ -60,8 +59,6 @@ nav ul {
 	width: 98%;
 	border-radius: 5px;
 	margin: 0 auto;
-	margin-top: 20px;
-	margin-bottom:20px;
 }
 
 nav li {
@@ -86,6 +83,16 @@ nav a:hover {
 	border-radius: 5px;
 }
 
+.header {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+.main-content {
+	margin-top: 10px;
+	margin-bottom: 60px;
+}
 
 .footer {
 	border-style: solid;
